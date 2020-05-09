@@ -1,0 +1,23 @@
+
+{
+"pacientes" :[
+    {
+      "id": 1,
+      "nombre": "Boris",
+      "apellido": "Jhonson",
+      "fechaNacimiento": "1976-12-30"
+    },
+    {
+      "id": 2,
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "fechaNacimiento": "1976-12-30"
+    },
+    {
+      "id": 3,
+      "nombre": "Esteban",
+      "apellido": "Garcia",
+      "fechaNacimiento": "1976-12-30"
+    }
+]
+}
