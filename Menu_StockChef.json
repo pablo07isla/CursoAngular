@@ -1,0 +1,92 @@
+{
+    "Entradas": [
+        {
+            "nombre": "Bolitas de Queso",
+            "descripcion": "Bocaditos de queso cheddar envueltos en una capa crujiente y fritos a la perfección.",
+            "precio": 4.5
+        },
+        {
+            "nombre": "Tiras de Pollo Deluxe",
+            "descripcion": "Tiernos trozos de pollo marinados, empanizados y servidos con salsa BBQ o miel mostaza.",
+            "precio": 6.0
+        },
+        {
+            "nombre": "Papas Cargadas",
+            "descripcion": "Papas fritas cubiertas con queso derretido, tocino crujiente y un toque de crema agria.",
+            "precio": 5.5
+        }
+    ],
+    "Hamburguesas": [
+        {
+            "nombre": "La Jugosa Stocker",
+            "descripcion": "Carne de res a la parrilla, queso suizo, champiñones salteados y mayonesa trufada en un pan brioche.",
+            "precio": 8.9
+        },
+        {
+            "nombre": "Delicia de Tocino",
+            "descripcion": "Doble carne, doble queso cheddar, tocino ahumado y salsa especial de la casa.",
+            "precio": 9.5
+        },
+        {
+            "nombre": "Suprema Vegetariana",
+            "descripcion": "Hamburguesa de garbanzos y remolacha, aguacate, lechuga, tomate y salsa de ajo.",
+            "precio": 7.8
+        }
+    ],
+    "Wraps y Sándwiches": [
+        {
+            "nombre": "Wrap de Pollo y Aguacate",
+            "descripcion": "Pollo a la parrilla, aguacate fresco, tomate y lechuga envueltos en tortilla de trigo.",
+            "precio": 7.2
+        },
+        {
+            "nombre": "Sándwich de Atún Picante",
+            "descripcion": "Atún, jalapeños, queso cheddar derretido y mayonesa de chipotle en pan integral.",
+            "precio": 6.9
+        },
+        {
+            "nombre": "Sándwich de Cerdo BBQ",
+            "descripcion": "Cerdo desmenuzado, salsa BBQ, coleslaw casero en un suave panecillo.",
+            "precio": 8.5
+        }
+    ],
+    "Tacos y Bowls": [
+        {
+            "nombre": "Tacos Callejeros",
+            "descripcion": "Tres tacos pequeños con carne asada, cebolla, cilantro y salsa verde.",
+            "precio": 7.5
+        },
+        {
+            "nombre": "Burrito Bowl",
+            "descripcion": "Arroz, frijoles, pollo desmenuzado, guacamole y pico de gallo.",
+            "precio": 8.0
+        },
+        {
+            "nombre": "Fiesta de Camarones",
+            "descripcion": "Tacos rellenos de camarones al ajillo, col morada y aderezo de mango picante.",
+            "precio": 8.7
+        }
+    ],
+    "Bebidas": [
+        {
+            "nombre": "Refrescos Artesanales",
+            "descripcion": "Sabores de temporada como limón-jengibre, frambuesa-limón y maracuyá.",
+            "precio": 3.5
+        },
+        {
+            "nombre": "Limonada Spritz",
+            "descripcion": "Limonada con burbujas y un toque de hierbabuena.",
+            "precio": 3.8
+        },
+        {
+            "nombre": "Malteadas Gourmet",
+            "descripcion": "Sabores: chocolate oscuro, vainilla bourbon, caramelo salado.",
+            "precio": 5.0
+        },
+        {
+            "nombre": "Café Cold Brew",
+            "descripcion": "Café frío de extracción lenta, ideal para recargar energía.",
+            "precio": 4.2
+        }
+    ]
+}
