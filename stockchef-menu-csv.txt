@@ -1,0 +1,17 @@
+nombre,descripcion,precio
+Bolitas de Queso,"Bocaditos de queso cheddar envueltos en una capa crujiente y fritos a la perfección.",4.5
+Tiras de Pollo Deluxe,"Tiernos trozos de pollo marinados, empanizados y servidos con salsa BBQ o miel mostaza.",6.0
+Papas Cargadas,"Papas fritas cubiertas con queso derretido, tocino crujiente y un toque de crema agria.",5.5
+La Jugosa Stocker,"Carne de res a la parrilla, queso suizo, champiñones salteados y mayonesa trufada en un pan brioche.",8.9
+Delicia de Tocino,"Doble carne, doble queso cheddar, tocino ahumado y salsa especial de la casa.",9.5
+Suprema Vegetariana,"Hamburguesa de garbanzos y remolacha, aguacate, lechuga, tomate y salsa de ajo.",7.8
+Wrap de Pollo y Aguacate,"Pollo a la parrilla, aguacate fresco, tomate y lechuga envueltos en tortilla de trigo.",7.2
+Sándwich de Atún Picante,"Atún, jalapeños, queso cheddar derretido y mayonesa de chipotle en pan integral.",6.9
+Sándwich de Cerdo BBQ,"Cerdo desmenuzado, salsa BBQ, coleslaw casero en un suave panecillo.",8.5
+Tacos Callejeros,"Tres tacos pequeños con carne asada, cebolla, cilantro y salsa verde.",7.5
+Burrito Bowl,"Arroz, frijoles, pollo desmenuzado, guacamole y pico de gallo.",8.0
+Fiesta de Camarones,"Tacos rellenos de camarones al ajillo, col morada y aderezo de mango picante.",8.7
+Refrescos Artesanales,"Sabores de temporada como limón-jengibre, frambuesa-limón y maracuyá.",3.5
+Limonada Spritz,"Limonada con burbujas y un toque de hierbabuena.",3.8
+Malteadas Gourmet,"Sabores: chocolate oscuro, vainilla bourbon, caramelo salado.",5.0
+Café Cold Brew,"Café frío de extracción lenta, ideal para recargar energía.",4.2
