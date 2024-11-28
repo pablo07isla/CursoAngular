@@ -1,0 +1,85 @@
+{
+    "informacion_general": {
+        "nombre_restaurante": "StockChef",
+        "eslogan": "Sabor y calidad en cada bocado",
+        "descripcion_negocio": "Restaurante contemporáneo que ofrece una experiencia culinaria única, combinando platos tradicionales con toques gourmet y un ambiente moderno."
+    },
+    "contacto": {
+        "direccion": "Av. Gourmet 123, Zona Gastronómica, Ciudad Sabor",
+        "telefonos": [
+            "+52 (55) 1234-5678",
+            "+52 (55) 8765-4321"
+        ],
+        "correo_electronico": "reservaciones@stockchef.com",
+        "sitio_web": "www.stockchef.com",
+        "redes_sociales": {
+            "instagram": "@StockChefRestaurante",
+            "facebook": "StockChef Oficial",
+            "twitter": "@StockChef"
+        }
+    },
+    "horarios": {
+        "lunes_a_jueves": "11:00 AM - 10:00 PM",
+        "viernes_y_sabado": "11:00 AM - 11:30 PM",
+        "domingo": "11:00 AM - 9:00 PM",
+        "dias_festivos": "Horario especial, verificar con anticipación"
+    },
+    "reservaciones": {
+        "politica_reservas": "Recomendamos hacer reservaciones con al menos 24 horas de anticipación",
+        "metodos_reserva": [
+            "Teléfono",
+            "Sitio web",
+            "Aplicación móvil",
+            "Correo electrónico"
+        ],
+        "capacidad_grupos": {
+            "mesa_individual": "Hasta 4 personas",
+            "grupo_grande": "5-12 personas requieren reservación especial",
+            "eventos_privados": "Disponible previa consulta"
+        }
+    },
+    "politicas_pago": {
+        "metodos_aceptados": [
+            "Efectivo",
+            "Tarjeta de crédito (Visa, Mastercard, American Express)",
+            "Tarjeta de débito",
+            "Transferencia electrónica",
+            "Pagos móviles (Apple Pay, Google Pay)"
+        ],
+        "propina": "Propina sugerida del 10-15%",
+        "politica_facturas": "Facturas disponibles con solicitud previa, requiere información fiscal"
+    },
+    "politicas_especiales": {
+        "accesibilidad": "Restaurante 100% accesible para personas con movilidad reducida",
+        "estacionamiento": {
+            "disponibilidad": "Estacionamiento propio",
+            "costo": "Gratuito para clientes",
+            "capacidad": "Hasta 20 vehículos"
+        },
+        "grupos_especiales": {
+            "ninos": "Menú infantil disponible",
+            "vegetarianos": "Opciones vegetarianas y veganas en cada categoría",
+            "alergias": "Informar al personal sobre alergias o restricciones alimentarias"
+        }
+    },
+    "politicas_covid": {
+        "protocolos_salud": "Seguimos protocolos de sanitización y distanciamiento social",
+        "personal_vacunado": "100% del personal con esquema de vacunación completo",
+        "opciones_servicio": [
+            "Comedor interno",
+            "Terraza",
+            "Servicio para llevar",
+            "Entrega a domicilio"
+        ]
+    },
+    "preguntas_frecuentes": {
+        "pregunta1": {
+            "titulo": "¿Puedo modificar mi platillo?",
+            "respuesta": "Sí, con gusto adaptamos los platillos a tus necesidades dietéticas o preferencias. Consulta con nuestro personal."
+        },
+        "pregunta2": {
+            "titulo": "¿Ofrecen catering o eventos especiales?",
+            "respuesta": "Sí, contamos con servicios de catering para eventos corporativos, bodas y reuniones familiares. Contáctanos para cotización personalizada."
+        }
+    }
+}
