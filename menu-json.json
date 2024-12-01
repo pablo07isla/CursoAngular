@@ -1,0 +1,245 @@
+{
+    "menu": [
+        {
+            "section": "SalchiPapas",
+            "name": "TENNESSE",
+            "price": 38000,
+            "description": "Un festín completo: maduros dulces, papa salchicha ranchera, tiras de pollo a la plancha, lechuga bávara fresca y tu tipo de pollo preferido"
+        },
+        {
+            "section": "SalchiPapas", 
+            "name": "SAN FRANCISCO",
+            "price": 20500,
+            "description": "Sencillo y delicioso: papa criolla crujiente, salchicha, ripio fresco y queso mozzarella derretido"
+        },
+        {
+            "section": "SalchiPapas",
+            "name": "CALIFORNIA",
+            "price": 34000,
+            "description": "Un toque irresistible: tocineta crujiente, papa criolla, salchicha ranchera y queso mozzarella"
+        },
+        {
+            "section": "SalchiPapas",
+            "name": "KANSAS POLLO",
+            "price": 34000,
+            "description": "La combinación perfecta: papa criolla, salchicha, queso mozzarella, pollo desmechado, maíz tierno y cebolla crispy"
+        },
+        {
+            "section": "SalchiPapas",
+            "name": "ALABAMA",
+            "price": 30000,
+            "description": "Sabores intensos: papa criolla, salchicha, queso mozzarella, chorizo, maíz dulce y cebolla crispy"
+        },
+        {
+            "section": "SalchiPapas",
+            "name": "MONTANA",
+            "price": 32000,
+            "description": "Un manjar reconfortante: costilla jugosa, papa criolla, salchicha, queso mozzarella, maduro dulce y ripio fresco"
+        },
+        {
+            "section": "SalchiPapas",
+            "name": "DAKOTA",
+            "price": 45000,
+            "description": "La estrella del menú: papa criolla, salchicha, chicharrón crocante, tiras de pollo, queso mozzarella, salsa de naranja, tocineta y ripio fresco"
+        },
+        {
+            "section": "SalchiPapas",
+            "name": "MENU INFANTIL",
+            "price": 17000,
+            "description": "Papa criolla, tiras de pollo y queso mozzarella"
+        },
+        {
+            "section": "PerrosCalientes",
+            "name": "TRADICIONAL",
+            "price": 15000,
+            "description": "Un clásico irresistible: salchicha premium acompañada de queso mozzarella derretido, ripio fresco y crujiente papa francesa"
+        },
+        {
+            "section": "PerrosCalientes",
+            "name": "GUERRERO",
+            "price": 18000,
+            "description": "Para los valientes: salchicha premium con jugosa costilla, tocineta crocante, queso mozzarella y un toque de cebolla crispy"
+        },
+        {
+            "section": "PerrosCalientes",
+            "name": "CHIHUAHUA",
+            "price": 20000,
+            "description": "Una explosión de sabor: salchicha con chicharrón de la casa y tocineta, queso mozzarella derretido y papas francesas"
+        },
+        {
+            "section": "Alitas",
+            "name": "6 Unidades",
+            "price": 25500
+        },
+        {
+            "section": "Alitas",
+            "name": "12 Unidades",
+            "price": 45500
+        },
+        {
+            "section": "Alitas",
+            "name": "24 Unidades",
+            "price": 80000
+        },
+        {
+            "section": "Alitas",
+            "name": "Salsa adicional",
+            "price": 2000
+        },
+        {
+            "section": "Brochetas",
+            "name": "Res",
+            "price": 18000
+        },
+        {
+            "section": "Brochetas",
+            "name": "Cerdo",
+            "price": 16000
+        },
+        {
+            "section": "Brochetas",
+            "name": "Pollo",
+            "price": 16000
+        },
+        {
+            "section": "Desgranados",
+            "name": "Res",
+            "price": 30000
+        },
+        {
+            "section": "Desgranados",
+            "name": "Pollo",
+            "price": 28000
+        },
+        {
+            "section": "Desgranados",
+            "name": "Mixto",
+            "price": 36000
+        },
+        {
+            "section": "Nachos",
+            "name": "Tocineta",
+            "price": 25000
+        },
+        {
+            "section": "Nachos",
+            "name": "Pollo Desmechado",
+            "price": 28000
+        },
+        {
+            "section": "Nachos",
+            "name": "Mixto",
+            "price": 38000
+        },
+        {
+            "section": "Hamburguesas",
+            "subsection": "Res",
+            "name": "Bacon Burger",
+            "price": 23000,
+            "description": "Carne jugosa con tocineta crujiente y queso cheddar"
+        },
+        {
+            "section": "Hamburguesas",
+            "subsection": "Res",
+            "name": "Mexicana",
+            "price": 25000,
+            "description": "Un toque picante con jalapeños, guacamole y queso derretido"
+        },
+        {
+            "section": "Hamburguesas",
+            "subsection": "Res", 
+            "name": "Doble Patio",
+            "price": 30000,
+            "description": "Doble carne, doble queso y doble sabor"
+        },
+        {
+            "section": "Hamburguesas",
+            "subsection": "Res",
+            "name": "Burger BBQ",
+            "price": 27000,
+            "description": "La favorita de los amantes de la salsa BBQ, con un toque dulce y ahumado"
+        },
+        {
+            "section": "Hamburguesas",
+            "subsection": "Res",
+            "name": "Encanto",
+            "price": 28000,
+            "description": "Una creación especial con ingredientes secretos"
+        },
+        {
+            "section": "Hamburguesas",
+            "subsection": "Pollo",
+            "name": "Pollo burger",
+            "price": 21500,
+            "description": "Pechuga de pollo empanizada, con aderezos frescos"
+        },
+        {
+            "section": "Hamburguesas",
+            "subsection": "Pollo",
+            "name": "Pollo Desmechado",
+            "price": 28000,
+            "description": "Pollo sazonado con nuestra receta especial, desmechado al punto perfecto"
+        },
+        {
+            "section": "Hamburguesas",
+            "subsection": "Pollo",
+            "name": "Mixto",
+            "price": 38000,
+            "description": "Lo mejor de dos mundos: carne de res y pollo"
+        },
+        {
+            "section": "Hamburguesas",
+            "subsection": "Vegetarianas",
+            "name": "Vegetariana",
+            "price": 17500,
+            "description": "Una opción ligera con un mix de vegetales frescos y salsas deliciosas"
+        },
+        {
+            "section": "Hamburguesas", 
+            "subsection": "Vegetarianas",
+            "name": "La Patio46",
+            "price": 28000,
+            "description": "Nuestra propuesta gourmet, llena de creatividad y sabor vegetariano"
+        },
+        {
+            "section": "Bebidas",
+            "name": "Limonada natural",
+            "price": 8000
+        },
+        {
+            "section": "Bebidas",
+            "name": "Limonada coco",
+            "price": 10000
+        },
+        {
+            "section": "Bebidas",
+            "name": "Limonada cerezada",
+            "price": 10000
+        },
+        {
+            "section": "Bebidas",
+            "name": "Limonada mango/piña",
+            "price": 10000
+        },
+        {
+            "section": "Bebidas",
+            "name": "Jugo Hit Litro",
+            "price": 10000
+        },
+        {
+            "section": "Bebidas",
+            "name": "Gaseosa 1/2",
+            "price": 6000
+        },
+        {
+            "section": "Bebidas",
+            "name": "Gaseosa personal",
+            "price": 6000
+        },
+        {
+            "section": "Bebidas",
+            "name": "Soda",
+            "price": 6000
+        }
+    ]
+}
