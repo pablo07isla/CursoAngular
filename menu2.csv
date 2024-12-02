@@ -1,0 +1,43 @@
+section,name,description,price,subsection
+SalchiPapas,TENNESSE,"Un festín completo: maduros dulces, papa salchicha ranchera, tiras de pollo a la plancha, lechuga bávara fresca y tu tipo de pollo preferido",38000,
+SalchiPapas,SAN FRANCISCO,"Sencillo y delicioso: papa criolla crujiente, salchicha, ripio fresco y queso mozzarella derretido",20500,
+SalchiPapas,CALIFORNIA,"Un toque irresistible: tocineta crujiente, papa criolla, salchicha ranchera y queso mozzarella",34000,
+SalchiPapas,KANSAS POLLO,"La combinación perfecta: papa criolla, salchicha, queso mozzarella, pollo desmechado, maíz tierno y cebolla crispy",34000,
+SalchiPapas,ALABAMA,"Sabores intensos: papa criolla, salchicha, queso mozzarella, chorizo, maíz dulce y cebolla crispy",30000,
+SalchiPapas,MONTANA,"Un manjar reconfortante: costilla jugosa, papa criolla, salchicha, queso mozzarella, maduro dulce y ripio fresco",32000,
+SalchiPapas,DAKOTA,"La estrella del menú: papa criolla, salchicha, chicharrón crocante, tiras de pollo, queso mozzarella, salsa de naranja, tocineta y ripio fresco",45000,
+SalchiPapas,MENU INFANTIL,"Papa criolla, tiras de pollo y queso mozzarella",17000,
+PerrosCalientes,TRADICIONAL,"Un clásico irresistible: salchicha premium acompañada de queso mozzarella derretido, ripio fresco y crujiente papa francesa",15000,
+PerrosCalientes,GUERRERO,"Para los valientes: salchicha premium con jugosa costilla, tocineta crocante, queso mozzarella y un toque de cebolla crispy",18000,
+PerrosCalientes,CHIHUAHUA,"Una explosión de sabor: salchicha con chicharrón de la casa y tocineta, queso mozzarella derretido y papas francesas",20000,
+Alitas,6 Unidades,,25500,
+Alitas,12 Unidades,,45500,
+Alitas,24 Unidades,,80000,
+Alitas,Salsa adicional,,2000,
+Brochetas,Res,,18000,
+Brochetas,Cerdo,,16000,
+Brochetas,Pollo,,16000,
+Desgranados,Res,,30000,
+Desgranados,Pollo,,28000,
+Desgranados,Mixto,,36000,
+Nachos,Tocineta,,25000,
+Nachos,Pollo Desmechado,,28000,
+Nachos,Mixto,,38000,
+Hamburguesas,Bacon Burger,"Carne jugosa con tocineta crujiente y queso cheddar",23000,Res
+Hamburguesas,Mexicana,"Un toque picante con jalapeños, guacamole y queso derretido",25000,Res
+Hamburguesas,Doble Patio,"Doble carne, doble queso y doble sabor",30000,Res
+Hamburguesas,Burger BBQ,"La favorita de los amantes de la salsa BBQ, con un toque dulce y ahumado",27000,Res
+Hamburguesas,Encanto,"Una creación especial con ingredientes secretos",28000,Res
+Hamburguesas,Pollo burger,"Pechuga de pollo empanizada, con aderezos frescos",21500,Pollo
+Hamburguesas,Pollo Desmechado,"Pollo sazonado con nuestra receta especial, desmechado al punto perfecto",28000,Pollo
+Hamburguesas,Mixto,"Lo mejor de dos mundos: carne de res y pollo",38000,Pollo
+Hamburguesas,Vegetariana,"Una opción ligera con un mix de vegetales frescos y salsas deliciosas",17500,Vegetarianas
+Hamburguesas,La Patio46,"Nuestra propuesta gourmet, llena de creatividad y sabor vegetariano",28000,Vegetarianas
+Bebidas,Limonada natural,,8000,
+Bebidas,Limonada coco,,10000,
+Bebidas,Limonada cerezada,,10000,
+Bebidas,Limonada mango/piña,,10000,
+Bebidas,Jugo Hit Litro,,10000,
+Bebidas,Gaseosa 1/2,,6000,
+Bebidas,Gaseosa personal,,6000,
+Bebidas,Soda,,6000,
